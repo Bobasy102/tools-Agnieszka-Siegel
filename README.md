@@ -87,3 +87,6 @@ Content in MadCap Flare is organized differently than for example Microsoft Word
 
 
 
+|   Jira  |   Confluence  | Flare    |
+| :------------- |:-------------------|:-----:|
+| grows on me    |grows on me |   still scary |
