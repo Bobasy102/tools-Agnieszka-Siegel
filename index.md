@@ -24,9 +24,10 @@ As its manual says, Jira is project tracking and management system used by teams
 •	Created to manage the teamwork. When you use Jira you automatically become more organised
 
 •	You see the progress and what needs to be done. It’s a bit like watching a hourglass and seeing how much time you have left.
+
 •	An easy connection with Confluence. 
 
-* free lessons for beginners you can get at "Atlassian University". Tou can watch it or download and read it.
+• free lessons for beginners you can get at "Atlassian University". You can watch it or download and read it.
 
 ![Jira for](https://www.uctoday.com/wp-content/uploads/2018/11/jira-review.jpg)
 
