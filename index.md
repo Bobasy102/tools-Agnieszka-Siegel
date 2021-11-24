@@ -27,7 +27,7 @@ As its manual says, Jira is project tracking and management system used by teams
 
 •	An easy connection with Confluence. 
 
-• free lessons for beginners you can get at "Atlassian University". You can watch it or download and read it.
+• Free lessons for beginners you can get at "Atlassian University". You can watch it or download and read it.
 
 ![Jira for](https://www.uctoday.com/wp-content/uploads/2018/11/jira-review.jpg)
 
